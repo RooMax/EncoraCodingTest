@@ -12,7 +12,7 @@ public class bookingManagerTest {
 
     @BeforeEach
     public void setUp() {
-        // create a new BookingManager object before each test
+    
         bookingManager = new BookingManager(10);
     }
 
